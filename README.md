@@ -1,3 +1,3 @@
 ﻿# First_test
 
-Testando funçoes do GitHub
+Aprendendo conceitos do Git e Github. 
